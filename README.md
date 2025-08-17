@@ -1,7 +1,6 @@
 # 🔐 CompTIA Security+ Certification
 
-I obtained the CompTIA Security+ (SY0-701) certification, which validates the baseline skills required to perform core security functions and begin a career in cybersecurity.  
-This accomplishment demonstrates my ability to secure networks, manage risks, and effectively respond to security incidents.
+I successfully obtained the **CompTIA Security+ (SY0-701)** certification, which validates the baseline skills required to perform core security functions and begin a career in cybersecurity.  
 
 ---
 
