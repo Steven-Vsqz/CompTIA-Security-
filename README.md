@@ -18,7 +18,7 @@ This achievement demonstrates my knowledge in securing networks, managing risks,
 ## 📄 Certificate of Completion
 
 <p align="center">
-  <img src="<!--https://imgur.com/a/daHuKOb-->" width="80%" alt="CompTIA Security+ Certificate" />
+  <img src="https://i.imgur.com/rELGPFj.png" width="80%" alt="CompTIA Security+ Certificate" />
 </p>
 
 ---
